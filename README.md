@@ -1,5 +1,4 @@
 # Blackjack
-Here's a **README.md** file for your Blackjack project with symbols for better organization and presentation:
 
 ```markdown
 # 🃏 Blackjack Game in Python
